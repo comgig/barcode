@@ -1,0 +1,1 @@
+<img src="barcode.php?id=123456" alt="barcode" /><br>
